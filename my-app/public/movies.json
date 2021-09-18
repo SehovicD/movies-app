@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1,
+        "title": "Three (a.k.a. 3 Extremes II) (Saam gaang)",
+        "genres": "Horror|Mystery",
+        "rating": 1.4,
+        "image": "http://dummyimage.com/238x254.png/ff4444/ffffff",
+        "release_year": 2008,
+        "actors": [
+            "Samuel Prate",
+            "Ivor Le Barr",
+            "Saree Sonley",
+            "Abra Pendock",
+            "Bibbie Bonavia"
+        ],
+        "movie": true
+    },
+    {
+        "id": 2,
+        "title": "Love Songs (Les chansons d'amour)",
+        "genres": "Drama|Musical",
+        "rating": 1.7,
+        "image": "http://dummyimage.com/231x292.png/5fa2dd/ffffff",
+        "release_year": 2004,
+        "actors": [
+            "Willyt Rawsthorn",
+            "Leeland Verlinde",
+            "Jobey Blader",
+            "Konstantine Rubin",
+            "Arni Foran"
+        ],
+        "movie": false
+    },
+    {
+        "id": 3,
+        "title": "Phase IV",
+        "genres": "Horror|Sci-Fi|Thriller",
+        "rating": 3.9,
+        "image": "http://dummyimage.com/210x288.png/cc0000/ffffff",
+        "release_year": 1992,
+        "actors": [
+            "Orran Byas",
+            "Marlena Folomkin",
+            "Kelby Dumelow",
+            "Salaidh Fingleton",
+            "Carmelia Strank"
+        ],
+        "movie": true
+    },
+    {
+        "id": 4,
+        "title": "The Fuller Brush Man",
+        "genres": "Adventure|Comedy",
+        "rating": 3.5,
+        "image": "http://dummyimage.com/205x274.png/cc0000/ffffff",
+        "release_year": 1968,
+        "actors": [
+            "Bert Provest",
+            "Eddi Willarton",
+            "Shea Betun",
+            "Alexis Sagar",
+            "Karil Corsham"
+        ],
+        "movie": false
+    },
+    {
+        "id": 5,
+        "title": "Starstruck",
+        "genres": "Comedy|Musical",
+        "rating": 3.0,
+        "image": "http://dummyimage.com/210x283.png/5fa2dd/ffffff",
+        "release_year": 2005,
+        "actors": [
+            "Winslow Slimme",
+            "Jory Rimour",
+            "Sully Hobden",
+            "Sissie Bayston",
+            "Myrwyn Chaster"
+        ],
+        "movie": true
+    },
+    {
+        "id": 6,
+        "title": "Romance of Astrea and Celadon, The (Les amours d'Astrée et de Céladon)",
+        "genres": "Drama|Romance",
+        "rating": 3.4,
+        "image": "http://dummyimage.com/241x282.png/ff4444/ffffff",
+        "release_year": 2004,
+        "actors": [
+            "Melly Edgeson",
+            "Fionnula Mannering",
+            "Tabina Swancott",
+            "Melania Kenvin",
+            "Abigail Shelsher"
+        ],
+        "movie": true
+    },
+    {
+        "id": 7,
+        "title": "DiG!",
+        "genres": "Documentary",
+        "rating": 1.1,
+        "image": "http://dummyimage.com/218x280.png/dddddd/000000",
+        "release_year": 1990,
+        "actors": [
+            "Constancy Tabor",
+            "Sutton Heap",
+            "Caesar Poundesford",
+            "Warner Cairney",
+            "Ally Reubel"
+        ],
+        "movie": true
+    },
+    {
+        "id": 8,
+        "title": "Oliver!",
+        "genres": "Drama|Musical",
+        "rating": 1.9,
+        "image": "http://dummyimage.com/218x269.png/dddddd/000000",
+        "release_year": 1986,
+        "actors": [
+            "Shayne Cowling",
+            "Bent Cluely",
+            "Michelle Darben",
+            "Louisa Colwill",
+            "Luelle Bramer"
+        ],
+        "movie": false
+    },
+    {
+        "id": 9,
+        "title": "Contraband",
+        "genres": "Action|Crime|Drama|Thriller",
+        "rating": 3.7,
+        "image": "http://dummyimage.com/243x269.png/cc0000/ffffff",
+        "release_year": 1994,
+        "actors": [
+            "Ronnica Smewin",
+            "Estrellita Atte-Stone",
+            "Veronike Tanti",
+            "Waldon Christoforou",
+            "Elihu Joder"
+        ],
+        "movie": true
+    },
+    {
+        "id": 10,
+        "title": "The Orkly Kid",
+        "genres": "Comedy",
+        "rating": 1.7,
+        "image": "http://dummyimage.com/228x257.png/5fa2dd/ffffff",
+        "release_year": 1996,
+        "actors": [
+            "Neala MacGragh",
+            "Anallise Dinsell",
+            "Sybille Hastings",
+            "Korney Deighan",
+            "Hi Folks"
+        ],
+        "movie": true
+    },
+    {
+        "id": 11,
+        "title": "Tracey Fragments, The",
+        "genres": "Drama",
+        "rating": 2.7,
+        "image": "http://dummyimage.com/205x281.png/5fa2dd/ffffff",
+        "release_year": 2012,
+        "actors": [
+            "Ettore Polack",
+            "Gretal Henkmann",
+            "Zulema Coutthart",
+            "Floyd Whyley",
+            "Chrysa Phillips"
+        ],
+        "movie": false
+    },
+    {
+        "id": 12,
+        "title": "When the Last Sword is Drawn (Mibu gishi den)",
+        "genres": "Drama",
+        "rating": 3.3,
+        "image": "http://dummyimage.com/247x267.png/5fa2dd/ffffff",
+        "release_year": 1992,
+        "actors": [
+            "Brady Bennell",
+            "Nada Fetherston",
+            "Bradford Paridge",
+            "Katti Lethby",
+            "Sibilla Klimontovich"
+        ],
+        "movie": false
+    },
+    {
+        "id": 13,
+        "title": "Creation",
+        "genres": "Drama",
+        "rating": 4.2,
+        "image": "http://dummyimage.com/219x252.png/cc0000/ffffff",
+        "release_year": 2010,
+        "actors": [
+            "Kennedy Wigginton",
+            "Felizio O'Luney",
+            "Adriane Brood",
+            "Bennett Crambie",
+            "Orelle Davidwitz"
+        ],
+        "movie": false
+    },
+    {
+        "id": 14,
+        "title": "Alien Hunter",
+        "genres": "Action|Sci-Fi|Thriller",
+        "rating": 2.7,
+        "image": "http://dummyimage.com/219x251.png/cc0000/ffffff",
+        "release_year": 1993,
+        "actors": [
+            "Indira Tabrett",
+            "Joseph Cullon",
+            "Blakeley Chanders",
+            "Flo Mulcaster",
+            "Row Ireland"
+        ],
+        "movie": true
+    },
+    {
+        "id": 15,
+        "title": "Brother Bear",
+        "genres": "Adventure|Animation|Children",
+        "rating": 4.4,
+        "image": "http://dummyimage.com/248x287.png/dddddd/000000",
+        "release_year": 1993,
+        "actors": [
+            "Mala Klimowski",
+            "Conrad Yeabsley",
+            "Karlee Spencelayh",
+            "Andie Sneaker",
+            "Gayelord Trewhela"
+        ],
+        "movie": true
+    },
+    {
+        "id": 16,
+        "title": "Solo ",
+        "genres": "Mystery|Thriller",
+        "rating": 4.2,
+        "image": "http://dummyimage.com/224x292.png/ff4444/ffffff",
+        "release_year": 2013,
+        "actors": [
+            "Viole Chantrell",
+            "Grantley Peche",
+            "Bartholomew Eliassen",
+            "Giustina Burgne",
+            "Efren Dunstone"
+        ],
+        "movie": false
+    },
+    {
+        "id": 17,
+        "title": "Friend Zone (Pagafantas)",
+        "genres": "Comedy",
+        "rating": 3.2,
+        "image": "http://dummyimage.com/205x253.png/5fa2dd/ffffff",
+        "release_year": 1992,
+        "actors": [
+            "Tina Hackforth",
+            "Broddy McAlpine",
+            "Elfreda Obal",
+            "Skipper Downgate",
+            "Lianne Geroldi"
+        ],
+        "movie": false
+    },
+    {
+        "id": 18,
+        "title": "Daffy Duck's Movie: Fantastic Island",
+        "genres": "Animation|Children|Comedy",
+        "rating": 4.8,
+        "image": "http://dummyimage.com/214x299.png/5fa2dd/ffffff",
+        "release_year": 1997,
+        "actors": [
+            "Kristel Dobie",
+            "Hesther Eadmead",
+            "Heidi Chong",
+            "Blane Kilday",
+            "Madelina Mawditt"
+        ],
+        "movie": false
+    },
+    {
+        "id": 19,
+        "title": "Apt Pupil",
+        "genres": "Drama|Thriller",
+        "rating": 3.6,
+        "image": "http://dummyimage.com/221x294.png/cc0000/ffffff",
+        "release_year": 1996,
+        "actors": [
+            "Alexandros Grotty",
+            "Cherilyn Cianelli",
+            "Portia Gherardelli",
+            "Danny Beckford",
+            "Itch Patty"
+        ],
+        "movie": false
+    },
+    {
+        "id": 20,
+        "title": "Il piccolo diavolo",
+        "genres": "Comedy|Fantasy|Romance",
+        "rating": 4.8,
+        "image": "http://dummyimage.com/217x285.png/ff4444/ffffff",
+        "release_year": 1991,
+        "actors": [
+            "Marji Cowtherd",
+            "Karylin Addekin",
+            "Angele Marchand",
+            "Becca Quenby",
+            "Walker Matuszinski"
+        ],
+        "movie": false
+    },
+    {
+        "id": 21,
+        "title": "I Can't Think Straight",
+        "genres": "Drama|Romance",
+        "rating": 1.1,
+        "image": "http://dummyimage.com/201x262.png/5fa2dd/ffffff",
+        "release_year": 2011,
+        "actors": [
+            "Ardra Panchin",
+            "Gene Byrde",
+            "Stacy Rigmand",
+            "Zia Millyard",
+            "Cornelia Dumbelton"
+        ],
+        "movie": false
+    },
+    {
+        "id": 22,
+        "title": "Till Human Voices Wake Us",
+        "genres": "Drama|Romance",
+        "rating": 2.1,
+        "image": "http://dummyimage.com/241x279.png/cc0000/ffffff",
+        "release_year": 2010,
+        "actors": [
+            "Kristi Dounbare",
+            "Johnny Allenson",
+            "Araldo Ziem",
+            "Benoit Brute",
+            "Ardys Croysdale"
+        ],
+        "movie": false
+    },
+    {
+        "id": 23,
+        "title": "Soldier's Tale, A",
+        "genres": "Drama|Romance|War",
+        "rating": 3.5,
+        "image": "http://dummyimage.com/223x262.png/5fa2dd/ffffff",
+        "release_year": 2003,
+        "actors": [
+            "Lexy Gillis",
+            "Dasi Aldin",
+            "Cloris Frean",
+            "Bernetta Woodthorpe",
+            "Shara Wilce"
+        ],
+        "movie": true
+    },
+    {
+        "id": 24,
+        "title": "Offender",
+        "genres": "Crime|Thriller",
+        "rating": 3.8,
+        "image": "http://dummyimage.com/244x271.png/ff4444/ffffff",
+        "release_year": 2012,
+        "actors": [
+            "Carin Keaveny",
+            "Odey Kail",
+            "Mitch Vedntyev",
+            "Cherin Gavrieli",
+            "Godard Driffe"
+        ],
+        "movie": true
+    },
+    {
+        "id": 25,
+        "title": "Philadelphia Experiment II",
+        "genres": "Action|Adventure|Sci-Fi",
+        "rating": 1.5,
+        "image": "http://dummyimage.com/233x274.png/ff4444/ffffff",
+        "release_year": 2006,
+        "actors": [
+            "Jordan Biaggiotti",
+            "Emery Levet",
+            "Wiley Anshell",
+            "Carin Catenot",
+            "Gisele Gerasch"
+        ],
+        "movie": false
+    },
+    {
+        "id": 26,
+        "title": "Heart of Midnight",
+        "genres": "Drama|Horror|Thriller",
+        "rating": 3.7,
+        "image": "http://dummyimage.com/244x266.png/5fa2dd/ffffff",
+        "release_year": 1983,
+        "actors": [
+            "Melody Shorland",
+            "Celestyn Antony",
+            "Karol Windaybank",
+            "Stearn Vise",
+            "Patrica Lovelace"
+        ],
+        "movie": true
+    },
+    {
+        "id": 27,
+        "title": "Zatoichi's Conspiracy (Shin Zatôichi monogatari: Kasama no chimatsuri) (Zatôichi 25)",
+        "genres": "Action|Drama",
+        "rating": 2.3,
+        "image": "http://dummyimage.com/249x270.png/ff4444/ffffff",
+        "release_year": 2004,
+        "actors": [
+            "Jessalyn Lymbourne",
+            "Guenevere Staten",
+            "Shelby Stronge",
+            "Collete Victory",
+            "Blondy Casone"
+        ],
+        "movie": true
+    },
+    {
+        "id": 28,
+        "title": "Two Ninas",
+        "genres": "Comedy|Romance",
+        "rating": 1.6,
+        "image": "http://dummyimage.com/249x261.png/dddddd/000000",
+        "release_year": 2005,
+        "actors": [
+            "Andrej Chadbourne",
+            "Magdalene Menghi",
+            "Meredeth Grannell",
+            "Sybil Skittrall",
+            "Frazier Goodbanne"
+        ],
+        "movie": true
+    },
+    {
+        "id": 29,
+        "title": "Garfield Christmas Special, A",
+        "genres": "Animation|Children|Comedy|Musical",
+        "rating": 4.8,
+        "image": "http://dummyimage.com/213x284.png/5fa2dd/ffffff",
+        "release_year": 2005,
+        "actors": [
+            "Shaine Jeannesson",
+            "Katharyn Crassweller",
+            "Isadora Grisard",
+            "Piper Melhuish",
+            "Parsifal Pettigree"
+        ],
+        "movie": false
+    },
+    {
+        "id": 30,
+        "title": "Thick as Thieves",
+        "genres": "Crime|Drama",
+        "rating": 1.5,
+        "image": "http://dummyimage.com/229x273.png/ff4444/ffffff",
+        "release_year": 2006,
+        "actors": [
+            "Benson Sherebrook",
+            "Carmina Pick",
+            "Hope Cornels",
+            "Hailee O'Fergus",
+            "Bonnee Donnellan"
+        ],
+        "movie": false
+    },
+    {
+        "id": 31,
+        "title": "Are We There Yet?",
+        "genres": "Children|Comedy",
+        "rating": 2.6,
+        "image": "http://dummyimage.com/248x285.png/5fa2dd/ffffff",
+        "release_year": 2005,
+        "actors": [
+            "Bambie Choffin",
+            "Ignace Bosse",
+            "Marcella Lukasen",
+            "Morgan Semens",
+            "Wilmer Wellbeloved"
+        ],
+        "movie": true
+    },
+    {
+        "id": 32,
+        "title": "The Devil Thumbs a Ride",
+        "genres": "Drama|Film-Noir",
+        "rating": 2.0,
+        "image": "http://dummyimage.com/200x298.png/ff4444/ffffff",
+        "release_year": 1961,
+        "actors": [
+            "Tobye Boerder",
+            "Malchy Ide",
+            "Law Phinnessy",
+            "Alain Gaymar",
+            "Wini Doret"
+        ],
+        "movie": false
+    },
+    {
+        "id": 33,
+        "title": "Devil's Doorway",
+        "genres": "Western",
+        "rating": 4.1,
+        "image": "http://dummyimage.com/222x256.png/ff4444/ffffff",
+        "release_year": 2002,
+        "actors": [
+            "Hermy Streatfield",
+            "Siward Forsbey",
+            "Minny McCafferky",
+            "Artair Ayrton",
+            "Jamill Searight"
+        ],
+        "movie": true
+    },
+    {
+        "id": 34,
+        "title": "Mission Bloody Mary",
+        "genres": "Adventure",
+        "rating": 1.2,
+        "image": "http://dummyimage.com/241x250.png/dddddd/000000",
+        "release_year": 1995,
+        "actors": [
+            "Wenonah Rulton",
+            "Justen Heinsh",
+            "Jerrylee Bukac",
+            "Starlin Pruce",
+            "Ase Baynes"
+        ],
+        "movie": true
+    },
+    {
+        "id": 35,
+        "title": "Pacific Rim",
+        "genres": "Action|Adventure|Sci-Fi|IMAX",
+        "rating": 3.0,
+        "image": "http://dummyimage.com/244x250.png/ff4444/ffffff",
+        "release_year": 2004,
+        "actors": [
+            "Trescha Jaram",
+            "Chaddie Winny",
+            "Iolande Tock",
+            "Mariam Wort",
+            "Karena Easlea"
+        ],
+        "movie": true
+    },
+    {
+        "id": 36,
+        "title": "The Strength of Water",
+        "genres": "(no genres listed)",
+        "rating": 3.5,
+        "image": "http://dummyimage.com/217x283.png/cc0000/ffffff",
+        "release_year": 2011,
+        "actors": [
+            "Kylie Bulcock",
+            "Buck Merrilees",
+            "Debor Finnick",
+            "Rochette Smeeth",
+            "Suzette Ivens"
+        ],
+        "movie": true
+    },
+    {
+        "id": 37,
+        "title": "Unknown Soldier, The (Tuntematon sotilas)",
+        "genres": "Drama|War",
+        "rating": 3.8,
+        "image": "http://dummyimage.com/227x290.png/ff4444/ffffff",
+        "release_year": 2011,
+        "actors": [
+            "Carroll Oattes",
+            "Jeana Hodcroft",
+            "Donnajean De Andisie",
+            "Anthe Gebuhr",
+            "Melisenda Bartosinski"
+        ],
+        "movie": false
+    },
+    {
+        "id": 38,
+        "title": "Fantasma",
+        "genres": "Drama",
+        "rating": 2.4,
+        "image": "http://dummyimage.com/217x269.png/dddddd/000000",
+        "release_year": 2000,
+        "actors": [
+            "Maxie Bartot",
+            "Doralin Langrick",
+            "Page Lindmark",
+            "Clotilda Meins",
+            "Birgit Beldan"
+        ],
+        "movie": false
+    },
+    {
+        "id": 39,
+        "title": "Getaway",
+        "genres": "Action|Crime",
+        "rating": 3.0,
+        "image": "http://dummyimage.com/210x256.png/5fa2dd/ffffff",
+        "release_year": 1966,
+        "actors": [
+            "Guthrey Woolager",
+            "Terrence Leyband",
+            "Glenn Truswell",
+            "Thor Hatherleigh",
+            "Willey Ellcome"
+        ],
+        "movie": false
+    },
+    {
+        "id": 40,
+        "title": "Spriggan (Supurigan)",
+        "genres": "Action|Animation|Sci-Fi",
+        "rating": 2.6,
+        "image": "http://dummyimage.com/232x253.png/cc0000/ffffff",
+        "release_year": 1990,
+        "actors": [
+            "Hymie Piscotti",
+            "Marys Gwyther",
+            "Berna Woolnough",
+            "Rodina Olive",
+            "Gherardo Timpany"
+        ],
+        "movie": true
+    },
+    {
+        "id": 41,
+        "title": "Murder Party",
+        "genres": "Comedy|Drama|Horror|Thriller",
+        "rating": 4.4,
+        "image": "http://dummyimage.com/244x253.png/ff4444/ffffff",
+        "release_year": 1993,
+        "actors": [
+            "Liliane Roja",
+            "Johnny Dyster",
+            "Carrissa Lannin",
+            "Tad Brumpton",
+            "Clare Odhams"
+        ],
+        "movie": false
+    },
+    {
+        "id": 42,
+        "title": "North Avenue Irregulars, The",
+        "genres": "Action|Crime",
+        "rating": 5.0,
+        "image": "http://dummyimage.com/240x275.png/ff4444/ffffff",
+        "release_year": 1994,
+        "actors": [
+            "Shirline Fortye",
+            "Wandie Swin",
+            "Jaynell Pamphilon",
+            "Sharyl Largan",
+            "Ginnifer Seabridge"
+        ],
+        "movie": true
+    },
+    {
+        "id": 43,
+        "title": "Container",
+        "genres": "Drama|Horror",
+        "rating": 4.1,
+        "image": "http://dummyimage.com/243x261.png/5fa2dd/ffffff",
+        "release_year": 2006,
+        "actors": [
+            "Isobel Dosdell",
+            "Kelcie Holdey",
+            "Coreen Deporte",
+            "Gus St Quenin",
+            "Kasey Coulthard"
+        ],
+        "movie": false
+    },
+    {
+        "id": 44,
+        "title": "Kentucky Fried Movie, The",
+        "genres": "Comedy",
+        "rating": 3.3,
+        "image": "http://dummyimage.com/236x252.png/cc0000/ffffff",
+        "release_year": 2011,
+        "actors": [
+            "Candie Arnauduc",
+            "Darell Noot",
+            "Elvira Danilovich",
+            "Monro Foulgham",
+            "Nikoletta Huntingford"
+        ],
+        "movie": true
+    },
+    {
+        "id": 45,
+        "title": "Russian Roulette",
+        "genres": "Drama|Thriller",
+        "rating": 4.3,
+        "image": "http://dummyimage.com/215x255.png/ff4444/ffffff",
+        "release_year": 2009,
+        "actors": [
+            "Angil Elsmore",
+            "Rodge Villaret",
+            "Megan Whatson",
+            "Maddie Sukbhans",
+            "Nat Fantini"
+        ],
+        "movie": false
+    },
+    {
+        "id": 46,
+        "title": "Territories ",
+        "genres": "Crime|Horror",
+        "rating": 2.6,
+        "image": "http://dummyimage.com/219x257.png/dddddd/000000",
+        "release_year": 1998,
+        "actors": [
+            "Julio Earngy",
+            "Halli Abotson",
+            "Maurise Weddeburn - Scrimgeour",
+            "Leese Vannozzii",
+            "Lynea Ottam"
+        ],
+        "movie": false
+    },
+    {
+        "id": 47,
+        "title": "Oil, the Baby and the Transylvanians, The (Pruncul, petrolul si Ardelenii)",
+        "genres": "Comedy|Western",
+        "rating": 4.7,
+        "image": "http://dummyimage.com/214x271.png/ff4444/ffffff",
+        "release_year": 1995,
+        "actors": [
+            "Pen Caizley",
+            "Addy Sobtka",
+            "Daisi Lindhe",
+            "Shelby Edland",
+            "Joe Sissens"
+        ],
+        "movie": true
+    },
+    {
+        "id": 48,
+        "title": "Täältä tullaan, elämä!",
+        "genres": "Drama|Romance",
+        "rating": 3.8,
+        "image": "http://dummyimage.com/240x291.png/cc0000/ffffff",
+        "release_year": 2004,
+        "actors": [
+            "Katherine Salleir",
+            "Maison Braidford",
+            "Tessie Goare",
+            "Antony Nettles",
+            "Fleur Van De Cappelle"
+        ],
+        "movie": false
+    },
+    {
+        "id": 49,
+        "title": "Rush: Beyond the Lighted Stage",
+        "genres": "Documentary|Musical",
+        "rating": 2.0,
+        "image": "http://dummyimage.com/206x289.png/dddddd/000000",
+        "release_year": 2001,
+        "actors": [
+            "Cordelie Badby",
+            "Clemente Baroc",
+            "Cristionna Westhoff",
+            "Sherm Bramwich",
+            "Aimil Landell"
+        ],
+        "movie": true
+    },
+    {
+        "id": 50,
+        "title": "Charlie Chan at the Olympics",
+        "genres": "Comedy|Crime|Mystery|Thriller",
+        "rating": 4.1,
+        "image": "http://dummyimage.com/233x295.png/dddddd/000000",
+        "release_year": 2000,
+        "actors": [
+            "Darby Lanfranchi",
+            "Lorelei Goulston",
+            "Rip Drennan",
+            "Guthry Tesdale",
+            "Fulvia Hedgecock"
+        ],
+        "movie": false
+    },
+    {
+        "id": 51,
+        "title": "Jour se lève, Le (Daybreak)",
+        "genres": "Crime|Drama|Romance|Thriller",
+        "rating": 4.2,
+        "image": "http://dummyimage.com/236x256.png/cc0000/ffffff",
+        "release_year": 2006,
+        "actors": [
+            "Rogers Dobbin",
+            "Delinda Marland",
+            "Bettina Creaser",
+            "Hillel McInnerny",
+            "Myranda Saket"
+        ],
+        "movie": true
+    },
+    {
+        "id": 52,
+        "title": "True Grit",
+        "genres": "Western",
+        "rating": 4.8,
+        "image": "http://dummyimage.com/219x284.png/dddddd/000000",
+        "release_year": 2002,
+        "actors": [
+            "Kessia Ulyatt",
+            "Gretchen Kunath",
+            "Pia Bartalot",
+            "Lise Lockery",
+            "Mayne Pavek"
+        ],
+        "movie": false
+    },
+    {
+        "id": 53,
+        "title": "Code 46",
+        "genres": "Romance|Sci-Fi",
+        "rating": 2.4,
+        "image": "http://dummyimage.com/236x260.png/ff4444/ffffff",
+        "release_year": 1972,
+        "actors": [
+            "Bartram Renfrew",
+            "Cindra MacKnight",
+            "Corina Woodgate",
+            "Cullin Oxbe",
+            "Reinold China"
+        ],
+        "movie": true
+    },
+    {
+        "id": 54,
+        "title": "Safety Patrol",
+        "genres": "(no genres listed)",
+        "rating": 3.9,
+        "image": "http://dummyimage.com/245x290.png/ff4444/ffffff",
+        "release_year": 2008,
+        "actors": [
+            "Brigida Butlin",
+            "Orelie Dods",
+            "Daffy McGaugey",
+            "Benny Snead",
+            "Sherwynd Chitham"
+        ],
+        "movie": true
+    },
+    {
+        "id": 55,
+        "title": "Plymouth Adventure",
+        "genres": "Adventure|Drama|Romance",
+        "rating": 3.5,
+        "image": "http://dummyimage.com/217x276.png/ff4444/ffffff",
+        "release_year": 2010,
+        "actors": [
+            "Shepperd Brittoner",
+            "Jo-anne Easeman",
+            "Netty Leverentz",
+            "Hamel Sails",
+            "Cecil Tregaskis"
+        ],
+        "movie": true
+    },
+    {
+        "id": 56,
+        "title": "Suite Française",
+        "genres": "Drama|Romance|War",
+        "rating": 3.1,
+        "image": "http://dummyimage.com/237x277.png/ff4444/ffffff",
+        "release_year": 2009,
+        "actors": [
+            "Morie Johantges",
+            "Agnesse Iannetti",
+            "Arron Stobbie",
+            "Dorolisa Kyttor",
+            "Kamilah Feld"
+        ],
+        "movie": false
+    },
+    {
+        "id": 57,
+        "title": "Cuban Fury",
+        "genres": "Comedy",
+        "rating": 3.9,
+        "image": "http://dummyimage.com/238x300.png/dddddd/000000",
+        "release_year": 1994,
+        "actors": [
+            "Corey Ruprechter",
+            "Thomasine Dines",
+            "Meghann Ilyinykh",
+            "Terri-jo Snoden",
+            "Shelley Cluet"
+        ],
+        "movie": true
+    },
+    {
+        "id": 58,
+        "title": "Dragon Ball Z: Super Android 13! (Doragon bôru Z 7: Kyokugen batoru!! San dai sûpâ saiyajin)",
+        "genres": "Action|Adventure|Animation",
+        "rating": 4.3,
+        "image": "http://dummyimage.com/226x294.png/dddddd/000000",
+        "release_year": 2000,
+        "actors": [
+            "Rouvin Udy",
+            "Rahel Barensky",
+            "Joan Barringer",
+            "Tanya Dulwitch",
+            "Paulita Witton"
+        ],
+        "movie": true
+    },
+    {
+        "id": 59,
+        "title": "Godspeed",
+        "genres": "Drama|Horror|Thriller",
+        "rating": 2.7,
+        "image": "http://dummyimage.com/228x278.png/ff4444/ffffff",
+        "release_year": 2001,
+        "actors": [
+            "Merrili Smedmore",
+            "Margette Cant",
+            "Mathew Tomasek",
+            "Matias Trethowan",
+            "Read Saleway"
+        ],
+        "movie": true
+    },
+    {
+        "id": 60,
+        "title": "Night Terrors",
+        "genres": "Horror",
+        "rating": 3.3,
+        "image": "http://dummyimage.com/240x284.png/dddddd/000000",
+        "release_year": 2004,
+        "actors": [
+            "Nikki Reppaport",
+            "Homerus Tatersale",
+            "Steward Jiracek",
+            "April Mintrim",
+            "Ransell Bollis"
+        ],
+        "movie": true
+    },
+    {
+        "id": 61,
+        "title": "Play It Again, Sam",
+        "genres": "Comedy|Romance",
+        "rating": 1.3,
+        "image": "http://dummyimage.com/234x279.png/dddddd/000000",
+        "release_year": 2003,
+        "actors": [
+            "Kassi Walpole",
+            "Dagmar Danett",
+            "Zeke Craighill",
+            "Napoleon Mozzetti",
+            "Francisca Crowest"
+        ],
+        "movie": false
+    },
+    {
+        "id": 62,
+        "title": "13th Warrior, The",
+        "genres": "Action|Adventure|Fantasy",
+        "rating": 4.2,
+        "image": "http://dummyimage.com/232x253.png/5fa2dd/ffffff",
+        "release_year": 2009,
+        "actors": [
+            "Tod Palfree",
+            "Sheffy Pack",
+            "Antonino Franzewitch",
+            "Arni McKennan",
+            "Felecia Sharma"
+        ],
+        "movie": true
+    },
+    {
+        "id": 63,
+        "title": "Cheeky Girls",
+        "genres": "Comedy",
+        "rating": 3.6,
+        "image": "http://dummyimage.com/232x274.png/dddddd/000000",
+        "release_year": 1990,
+        "actors": [
+            "Isiahi Gridon",
+            "Gran Tilzey",
+            "Hewe Danniel",
+            "Rheba Jojic",
+            "Archaimbaud Marques"
+        ],
+        "movie": true
+    },
+    {
+        "id": 64,
+        "title": "Die Hard",
+        "genres": "Action|Crime|Thriller",
+        "rating": 3.6,
+        "image": "http://dummyimage.com/210x290.png/dddddd/000000",
+        "release_year": 2003,
+        "actors": [
+            "Roxanna Castiello",
+            "Robinetta Mazzey",
+            "Stevy Derisley",
+            "Mariann Smallpeace",
+            "Reinold Wisham"
+        ],
+        "movie": false
+    },
+    {
+        "id": 65,
+        "title": "Lost in the Desert",
+        "genres": "Adventure|Drama|Thriller",
+        "rating": 2.4,
+        "image": "http://dummyimage.com/231x298.png/dddddd/000000",
+        "release_year": 1995,
+        "actors": [
+            "Rosalind Costelow",
+            "Rodrick Kimmel",
+            "Giusto Osbourn",
+            "Mona Philipsson",
+            "Antonino Faux"
+        ],
+        "movie": true
+    },
+    {
+        "id": 66,
+        "title": "Out of Mind: The Stories of H.P. Lovecraft",
+        "genres": "Fantasy|Horror",
+        "rating": 4.8,
+        "image": "http://dummyimage.com/208x261.png/cc0000/ffffff",
+        "release_year": 2004,
+        "actors": [
+            "Alistair Szach",
+            "Zarah Gaspero",
+            "Mohandas Drewes",
+            "Kristine Ogles",
+            "Marve Tune"
+        ],
+        "movie": true
+    },
+    {
+        "id": 67,
+        "title": "Divine Intervention (Yadon ilaheyya)",
+        "genres": "Comedy|Drama|Romance|War",
+        "rating": 4.6,
+        "image": "http://dummyimage.com/224x250.png/ff4444/ffffff",
+        "release_year": 1988,
+        "actors": [
+            "Brittni Fahrenbach",
+            "Errol Gianelli",
+            "Olenka Corck",
+            "Druci McGillivray",
+            "Arlan Birtwell"
+        ],
+        "movie": true
+    },
+    {
+        "id": 68,
+        "title": "Jungle Book, The",
+        "genres": "Animation|Children|Comedy|Musical",
+        "rating": 1.6,
+        "image": "http://dummyimage.com/200x264.png/5fa2dd/ffffff",
+        "release_year": 1994,
+        "actors": [
+            "Lazar Stigell",
+            "Candida Bruckman",
+            "Ave Flanders",
+            "Sheffie Larter",
+            "Mable Flucks"
+        ],
+        "movie": true
+    },
+    {
+        "id": 69,
+        "title": "Lizard in a Woman's Skin, A (Lucertola con la pelle di donna, Una)",
+        "genres": "Horror|Mystery|Thriller",
+        "rating": 4.1,
+        "image": "http://dummyimage.com/210x282.png/cc0000/ffffff",
+        "release_year": 2009,
+        "actors": [
+            "Amandi Mougeot",
+            "Ogdan Tales",
+            "Louis Ricardin",
+            "Bianka Gordon-Giles",
+            "Andris Bernardinelli"
+        ],
+        "movie": true
+    },
+    {
+        "id": 70,
+        "title": "Fiddle-de-dee",
+        "genres": "Animation|Musical",
+        "rating": 2.1,
+        "image": "http://dummyimage.com/224x297.png/cc0000/ffffff",
+        "release_year": 1995,
+        "actors": [
+            "Ruthe Garces",
+            "Bamby Szymczyk",
+            "Marven MacArdle",
+            "Emmet Prandin",
+            "Brok Umfrey"
+        ],
+        "movie": false
+    },
+    {
+        "id": 71,
+        "title": "At Play in the Fields of the Lord",
+        "genres": "Drama",
+        "rating": 3.2,
+        "image": "http://dummyimage.com/239x267.png/ff4444/ffffff",
+        "release_year": 2012,
+        "actors": [
+            "Kerri Brizell",
+            "Lucinda Arnett",
+            "Brnaby Flannery",
+            "Roda Gilbride",
+            "Elsy Fee"
+        ],
+        "movie": true
+    },
+    {
+        "id": 72,
+        "title": "Love Can Seriously Damage Your Health",
+        "genres": "Comedy|Romance",
+        "rating": 1.7,
+        "image": "http://dummyimage.com/210x281.png/cc0000/ffffff",
+        "release_year": 1997,
+        "actors": [
+            "Roma Chatenier",
+            "Jessalin Savatier",
+            "Karlens Spilisy",
+            "Chloris Frany",
+            "Alic Duigan"
+        ],
+        "movie": true
+    },
+    {
+        "id": 73,
+        "title": "CSNY Déjà Vu",
+        "genres": "Documentary",
+        "rating": 1.6,
+        "image": "http://dummyimage.com/214x272.png/5fa2dd/ffffff",
+        "release_year": 2011,
+        "actors": [
+            "Thalia McEntee",
+            "Korie Du Hamel",
+            "Wrennie Yeliashev",
+            "Cecil Osmon",
+            "Roxanna Whimper"
+        ],
+        "movie": false
+    },
+    {
+        "id": 74,
+        "title": "Jackie Brown",
+        "genres": "Crime|Drama|Thriller",
+        "rating": 3.5,
+        "image": "http://dummyimage.com/206x263.png/ff4444/ffffff",
+        "release_year": 1994,
+        "actors": [
+            "Richardo Rigglesford",
+            "Andria Winkell",
+            "Brook Reuven",
+            "Darbee Bothbie",
+            "Alys Astlett"
+        ],
+        "movie": true
+    },
+    {
+        "id": 75,
+        "title": "Big Brown Eyes",
+        "genres": "Comedy|Mystery",
+        "rating": 4.2,
+        "image": "http://dummyimage.com/216x299.png/5fa2dd/ffffff",
+        "release_year": 1992,
+        "actors": [
+            "Mischa Clayhill",
+            "Greta Pond",
+            "Amie Langrish",
+            "Alisha Wiltsher",
+            "Shoshana Millsom"
+        ],
+        "movie": false
+    },
+    {
+        "id": 76,
+        "title": "Source Family, The",
+        "genres": "Documentary|Musical",
+        "rating": 1.1,
+        "image": "http://dummyimage.com/227x293.png/ff4444/ffffff",
+        "release_year": 2002,
+        "actors": [
+            "Kori Quartly",
+            "Harper Nerheny",
+            "Maure Wallworke",
+            "Cosette Lapre",
+            "Shelden Marqyes"
+        ],
+        "movie": false
+    },
+    {
+        "id": 77,
+        "title": "Eyes of Laura Mars",
+        "genres": "Mystery|Thriller",
+        "rating": 5.0,
+        "image": "http://dummyimage.com/230x291.png/cc0000/ffffff",
+        "release_year": 1989,
+        "actors": [
+            "Georgianna Glison",
+            "Teddie Ramsdell",
+            "Angus Sired",
+            "Marline Connichie",
+            "Wilbur Lunck"
+        ],
+        "movie": false
+    },
+    {
+        "id": 78,
+        "title": "Smile",
+        "genres": "Drama",
+        "rating": 4.3,
+        "image": "http://dummyimage.com/236x280.png/dddddd/000000",
+        "release_year": 1996,
+        "actors": [
+            "Jobi Gourlay",
+            "Jackqueline Pattie",
+            "Corty Woodwin",
+            "Audry Capewell",
+            "Nonnah Wintringham"
+        ],
+        "movie": false
+    },
+    {
+        "id": 79,
+        "title": "Living with the Fosters",
+        "genres": "Comedy",
+        "rating": 3.0,
+        "image": "http://dummyimage.com/201x298.png/ff4444/ffffff",
+        "release_year": 1997,
+        "actors": [
+            "Allsun O' Bee",
+            "Fraser Wiggall",
+            "Marya Annetts",
+            "Debor Veronique",
+            "Corrine Asser"
+        ],
+        "movie": true
+    },
+    {
+        "id": 80,
+        "title": "Devil's Rock, The",
+        "genres": "Horror|Thriller|War",
+        "rating": 3.6,
+        "image": "http://dummyimage.com/240x254.png/cc0000/ffffff",
+        "release_year": 1993,
+        "actors": [
+            "Tiertza Marrington",
+            "Noemi Cabera",
+            "Sophia Salzberger",
+            "Carree Moncey",
+            "Homere O'Fearguise"
+        ],
+        "movie": false
+    },
+    {
+        "id": 81,
+        "title": "American Dream, An",
+        "genres": "Drama",
+        "rating": 3.1,
+        "image": "http://dummyimage.com/224x285.png/dddddd/000000",
+        "release_year": 2007,
+        "actors": [
+            "Abbot Shewry",
+            "Rawley Upex",
+            "Ediva Cabena",
+            "Scarface Goffe",
+            "Jamesy Larroway"
+        ],
+        "movie": true
+    },
+    {
+        "id": 82,
+        "title": "Nekromantik",
+        "genres": "Comedy|Horror",
+        "rating": 4.5,
+        "image": "http://dummyimage.com/214x259.png/5fa2dd/ffffff",
+        "release_year": 2000,
+        "actors": [
+            "Tommie Reimer",
+            "Lynnet Braley",
+            "Emogene Klampk",
+            "Nedda MacCathay",
+            "Marchelle Waltho"
+        ],
+        "movie": false
+    },
+    {
+        "id": 83,
+        "title": "All the Light in the Sky",
+        "genres": "Drama",
+        "rating": 1.1,
+        "image": "http://dummyimage.com/239x298.png/5fa2dd/ffffff",
+        "release_year": 1988,
+        "actors": [
+            "Emory Millichap",
+            "Austin Wrathall",
+            "Evie Gant",
+            "Jeannette Lorait",
+            "Adolphus Flood"
+        ],
+        "movie": false
+    },
+    {
+        "id": 84,
+        "title": "Hansel & Gretel: Witch Hunters",
+        "genres": "Action|Fantasy|Horror|IMAX",
+        "rating": 3.0,
+        "image": "http://dummyimage.com/237x261.png/dddddd/000000",
+        "release_year": 2004,
+        "actors": [
+            "Goldina Leasor",
+            "Caitrin Carrick",
+            "Raoul Goosnell",
+            "Giorgi Saker",
+            "Hugh Criple"
+        ],
+        "movie": true
+    },
+    {
+        "id": 85,
+        "title": "Girl with the Red Scarf, The (Selvi boylum, al yazmalim)",
+        "genres": "Drama|Romance",
+        "rating": 2.2,
+        "image": "http://dummyimage.com/222x300.png/5fa2dd/ffffff",
+        "release_year": 2010,
+        "actors": [
+            "Eunice Howsan",
+            "Desirae Ovey",
+            "Maryellen Okroy",
+            "Bryana Debling",
+            "Serene Davidsen"
+        ],
+        "movie": true
+    },
+    {
+        "id": 86,
+        "title": "Annapolis",
+        "genres": "Drama",
+        "rating": 2.8,
+        "image": "http://dummyimage.com/207x292.png/cc0000/ffffff",
+        "release_year": 1987,
+        "actors": [
+            "Brinna Copes",
+            "Sher Sketchley",
+            "Freddy Eaklee",
+            "Charlotte Tirone",
+            "Mead Edgar"
+        ],
+        "movie": true
+    },
+    {
+        "id": 87,
+        "title": "Dragonquest",
+        "genres": "Fantasy",
+        "rating": 1.8,
+        "image": "http://dummyimage.com/222x299.png/cc0000/ffffff",
+        "release_year": 1986,
+        "actors": [
+            "Thor Martinuzzi",
+            "Dylan Kerswell",
+            "Chrisy Fritschel",
+            "Susana Tutin",
+            "Wendall Kenen"
+        ],
+        "movie": true
+    },
+    {
+        "id": 88,
+        "title": "Rooster's Breakfast (Petelinji zajtrk)",
+        "genres": "Drama",
+        "rating": 3.9,
+        "image": "http://dummyimage.com/232x282.png/ff4444/ffffff",
+        "release_year": 1997,
+        "actors": [
+            "Trista Oman",
+            "Ashley Stockell",
+            "Elsie Martyntsev",
+            "Thornton Dunkirk",
+            "Coretta Quimby"
+        ],
+        "movie": true
+    },
+    {
+        "id": 89,
+        "title": "King Rat",
+        "genres": "Drama|War",
+        "rating": 2.6,
+        "image": "http://dummyimage.com/244x269.png/dddddd/000000",
+        "release_year": 1999,
+        "actors": [
+            "Valerye Penas",
+            "Helen-elizabeth O'Farrell",
+            "Kirby Petegre",
+            "Teddi Iannuzzelli",
+            "Kingsley Berecloth"
+        ],
+        "movie": false
+    },
+    {
+        "id": 90,
+        "title": "Spirit, The",
+        "genres": "Action|Comedy|Fantasy|Thriller",
+        "rating": 1.7,
+        "image": "http://dummyimage.com/234x263.png/5fa2dd/ffffff",
+        "release_year": 1986,
+        "actors": [
+            "Wilfrid Bredes",
+            "Winthrop McPake",
+            "Rasia Swain",
+            "Sheppard Van der Linde",
+            "Benita Dolton"
+        ],
+        "movie": true
+    },
+    {
+        "id": 91,
+        "title": "Vinci",
+        "genres": "Comedy|Crime",
+        "rating": 4.2,
+        "image": "http://dummyimage.com/242x289.png/5fa2dd/ffffff",
+        "release_year": 1994,
+        "actors": [
+            "Christin Parslow",
+            "Nanni Elfitt",
+            "Cookie Clarycott",
+            "Izabel Sporgeon",
+            "Allayne Scadden"
+        ],
+        "movie": false
+    },
+    {
+        "id": 92,
+        "title": "Coluche, l'histoire d'un mec",
+        "genres": "Drama",
+        "rating": 3.1,
+        "image": "http://dummyimage.com/206x252.png/5fa2dd/ffffff",
+        "release_year": 1970,
+        "actors": [
+            "Sergent Corbet",
+            "Ulric Jakubiak",
+            "Cloris Huddle",
+            "Cherie Gamwell",
+            "Hana Vautre"
+        ],
+        "movie": true
+    },
+    {
+        "id": 93,
+        "title": "Chocolate Strawberry Vanilla",
+        "genres": "Comedy|Drama",
+        "rating": 4.5,
+        "image": "http://dummyimage.com/242x286.png/5fa2dd/ffffff",
+        "release_year": 2006,
+        "actors": [
+            "Stephenie Heckle",
+            "Lenee Tilio",
+            "Jdavie Gasperi",
+            "Irita Brittles",
+            "Boris Easterling"
+        ],
+        "movie": false
+    },
+    {
+        "id": 94,
+        "title": "Fifty Shades of Grey",
+        "genres": "Drama",
+        "rating": 2.3,
+        "image": "http://dummyimage.com/239x282.png/cc0000/ffffff",
+        "release_year": 2005,
+        "actors": [
+            "Noel Faircloth",
+            "Tamar Marks",
+            "Merissa Teek",
+            "Anstice Bargh",
+            "Ruby Laise"
+        ],
+        "movie": true
+    },
+    {
+        "id": 95,
+        "title": "Beastly",
+        "genres": "Drama|Fantasy|Romance",
+        "rating": 3.1,
+        "image": "http://dummyimage.com/213x262.png/ff4444/ffffff",
+        "release_year": 1988,
+        "actors": [
+            "Tandie Goodred",
+            "Charissa Sloan",
+            "Corinna Widdowson",
+            "Orson Wicklin",
+            "Joby Jayume"
+        ],
+        "movie": true
+    },
+    {
+        "id": 96,
+        "title": "English Surgeon, The",
+        "genres": "Documentary",
+        "rating": 2.1,
+        "image": "http://dummyimage.com/202x279.png/ff4444/ffffff",
+        "release_year": 1989,
+        "actors": [
+            "Caro Devigne",
+            "Ibbie Sturdy",
+            "Sidonia Vigors",
+            "Carmela Sizland",
+            "Jarrett Gianullo"
+        ],
+        "movie": true
+    },
+    {
+        "id": 97,
+        "title": "Stoked: The Rise and Fall of Gator",
+        "genres": "Documentary",
+        "rating": 1.9,
+        "image": "http://dummyimage.com/231x261.png/dddddd/000000",
+        "release_year": 1995,
+        "actors": [
+            "Teressa Beardow",
+            "Virginia Simonyi",
+            "Maxy Stollen",
+            "Colas Odams",
+            "Ashlan Bowdler"
+        ],
+        "movie": false
+    },
+    {
+        "id": 98,
+        "title": "Joan of Arc",
+        "genres": "Action|Drama|War",
+        "rating": 2.8,
+        "image": "http://dummyimage.com/201x269.png/cc0000/ffffff",
+        "release_year": 2008,
+        "actors": [
+            "Flem Mourbey",
+            "Mora Orsay",
+            "Amaleta Kingsbury",
+            "Tull Studdard",
+            "Giustina Broadbridge"
+        ],
+        "movie": false
+    },
+    {
+        "id": 99,
+        "title": "Maria Bamford: The Special Special Special!",
+        "genres": "Comedy",
+        "rating": 4.4,
+        "image": "http://dummyimage.com/224x286.png/5fa2dd/ffffff",
+        "release_year": 2006,
+        "actors": [
+            "Lilla Gioani",
+            "Lawton Ormistone",
+            "Lorraine Kyne",
+            "Tory Townend",
+            "Glory McTrustram"
+        ],
+        "movie": false
+    },
+    {
+        "id": 100,
+        "title": "Goats",
+        "genres": "Comedy",
+        "rating": 4.3,
+        "image": "http://dummyimage.com/220x270.png/ff4444/ffffff",
+        "release_year": 2007,
+        "actors": [
+            "Sumner Arons",
+            "Belva Indgs",
+            "Tuck Brewerton",
+            "Trish McCrohon",
+            "Josee Grimsdell"
+        ],
+        "movie": false
+    }
+]
